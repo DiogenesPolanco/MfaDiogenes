@@ -1,0 +1,52 @@
+# .NET Core
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.nuget.props
+*.runtimeconfig.dev.json
+*.runtimeconfig.json
+*.deps.json
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.sln.ide
+
+# Rider-specific files
+.idea/
+.idea_modules/
+*.sln.iml
+.idea/cache/
+.idea/workspace.xml
+
+# VS Code files
+.vscode/
+
+# OS-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+*.swp      # Vim swap files
+
+# Logs
+*.log
+
+# Built Application files
+*.app
+*.ipa
+*.apk
+*.dSYM/
+
+# Packaging files
+*.jar
+*.war
+*.zip
+*.tar
+*.gz
+*.7z
+
+# Backup files
+*.bak
